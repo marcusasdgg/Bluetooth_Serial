@@ -358,6 +358,10 @@ bool HID_wrapper::ez_key_initialization()
     seri_normal_key[141] = 227;
     seri_normal_key[143] = 226;
     seri_normal_key[145] = 227;
+
+    for (int i = 0 ; i < 116 ; i++){
+        key_state[i] = false;
+    }
     return true;
 }
 
@@ -392,13 +396,13 @@ bool HID_wrapper::line_input(std::string s)
     return true;
 }
 
-key_mask_t HID_wrapper::special_key_combinator()
+key_mask_t HID_wrapper::special_key_combinator() //change this to rely on keystateMap
 {
     key_mask_t result = 0;
-    if (shift) result = result | LEFT_SHIFT_KEY_MASK;
-    if (ctrl) result = result | LEFT_CONTROL_KEY_MASK;
-    if (windows) result = result | LEFT_GUI_KEY_MASK;
-    if (alt) result = result | LEFT_ALT_KEY_MASK;
+    if (key_state[111]) result = result | LEFT_SHIFT_KEY_MASK;
+    if (key_state[112]) result = result | LEFT_CONTROL_KEY_MASK;
+    if (key_state[113]) result = result | LEFT_GUI_KEY_MASK;
+    if (key_state[114]) result = result | LEFT_ALT_KEY_MASK;
     return result;
 }
 void HID_wrapper::press_key(uint8_t c)
@@ -466,15 +470,33 @@ bool HID_wrapper::serial_2_input()
     while (true)
     {
         uint8_t temp = read_byte();
-        if (temp == 138 || temp == 140 || temp == 142 || temp == 144 || temp == 146 || temp == 147)
-        {
-            release_key(temp);
+        //update key_state
+        if (temp > 115){
+            temp -= 116;
+            key_state[temp] = false;
         } else {
-            press_key(temp);
+            key_state[temp] = true;
         }
+
+        press_state();
+        // if (temp == 138 || temp == 140 || temp == 142 || temp == 144 || temp == 146 || temp == 147)
+        // {
+        //     release_key(temp);
+        // } else {
+        //     press_key(temp);
+        // }
          // Pass a string with a single character
     }
+    
     return true;
+}
+
+void HID_wrapper::press_state(){
+    key_mask_t modifiers = special_key_combinator();
+    vector<uint8_t> keys_pressed;
+    for (int i = 0 ; i < 116 ; i++){
+    }
+
 }
 
 bool HID_wrapper::write_log(string s)
