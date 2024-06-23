@@ -62,5 +62,6 @@
         "hid_dev.h": "c",
         "esp_gatt_defs.h": "c"
     },
-    "idf.adapterTargetName": "esp32"
+    "idf.adapterTargetName": "esp32",
+    "idf.portWin": "COM3"
 }

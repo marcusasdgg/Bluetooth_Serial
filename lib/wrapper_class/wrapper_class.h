@@ -54,6 +54,7 @@ class HID_wrapper : public usb_serial_interface
         map<string,int> ez_normal_key;
         map<string,int> ez_special_key;
         map<int,int> seri_normal_key;
+        map<int,int> key_state_map;
         bool key_state[118];
         bool shift;
         bool windows;
