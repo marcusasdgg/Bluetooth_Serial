@@ -1,0 +1,1054 @@
+2024-09-28 19:30:15.005461 : Key press report: ctrl
+
+2024-09-28 19:30:15.109530 : Key press report: c
+
+2024-09-28 19:30:15.189602 : Key press report: c
+
+2024-09-28 19:30:15.493579 : Key press report: c
+
+2024-09-28 19:30:15.565055 : Key press report: c
+
+2024-09-28 19:30:15.805805 : Key press report: ctrl
+
+2024-09-28 19:30:18.541696 : Key press report: s
+
+2024-09-28 19:30:18.653193 : Key press report: s
+
+2024-09-28 19:30:19.629545 : Key press report: backspace
+
+2024-09-28 19:30:19.725358 : Key press report: backspace
+
+2024-09-28 19:30:20.253490 : Key press report: shift
+
+2024-09-28 19:30:20.757199 : Key press report: shift
+
+2024-09-28 19:30:20.787197 : Key press report: shift
+
+2024-09-28 19:30:20.829518 : Key press report: J
+
+2024-09-28 19:30:20.932815 : Key press report: J
+
+2024-09-28 19:30:20.964894 : Key press report: shift
+
+2024-09-28 19:30:21.093094 : Key press report: a
+
+2024-09-28 19:30:21.165252 : Key press report: a
+
+2024-09-28 19:30:21.188671 : Key press report: l
+
+2024-09-28 19:30:21.293671 : Key press report: m
+
+2024-09-28 19:30:21.333142 : Key press report: l
+
+2024-09-28 19:30:21.389647 : Key press report: m
+
+2024-09-28 19:30:21.757064 : Key press report: 0
+
+2024-09-28 19:30:21.925390 : Key press report: 7
+
+2024-09-28 19:30:21.965037 : Key press report: 0
+
+2024-09-28 19:30:22.004770 : Key press report: 7
+
+2024-09-28 19:30:22.053364 : Key press report: 1
+
+2024-09-28 19:30:22.100675 : Key press report: 3
+
+2024-09-28 19:30:22.172894 : Key press report: 1
+
+2024-09-28 19:30:22.221740 : Key press report: enter
+
+2024-09-28 19:30:22.229663 : Key press report: 3
+
+2024-09-28 19:30:22.301388 : Key press report: enter
+
+2024-09-28 19:30:24.573553 : Key press report: left windows
+
+2024-09-28 19:30:24.661188 : Key press report: left windows
+
+2024-09-28 19:30:26.325368 : Key press report: left
+
+2024-09-28 19:30:26.412863 : Key press report: left
+
+2024-09-28 19:30:26.837014 : Key press report: right
+
+2024-09-28 19:30:26.932704 : Key press report: right
+
+2024-09-28 19:30:27.053544 : Key press report: right
+
+2024-09-28 19:30:27.141024 : Key press report: right
+
+2024-09-28 19:30:27.236982 : Key press report: right
+
+2024-09-28 19:30:27.317097 : Key press report: right
+
+2024-09-28 19:30:30.349485 : Key press report: up
+
+2024-09-28 19:30:30.444657 : Key press report: up
+
+2024-09-28 19:30:30.685446 : Key press report: right
+
+2024-09-28 19:30:30.804980 : Key press report: right
+
+2024-09-28 19:30:30.988824 : Key press report: down
+
+2024-09-28 19:30:31.125439 : Key press report: down
+
+2024-09-28 19:30:31.293423 : Key press report: left
+
+2024-09-28 19:30:31.388868 : Key press report: left
+
+2024-09-28 19:30:31.916814 : Key press report: up
+
+2024-09-28 19:30:32.005031 : Key press report: up
+
+2024-09-28 19:30:32.124945 : Key press report: up
+
+2024-09-28 19:30:32.188791 : Key press report: up
+
+2024-09-28 19:30:32.468895 : Key press report: down
+
+2024-09-28 19:30:32.565353 : Key press report: down
+
+2024-09-28 19:30:32.989204 : Key press report: down
+
+2024-09-28 19:30:33.148826 : Key press report: down
+
+2024-09-28 19:30:33.196725 : Key press report: right
+
+2024-09-28 19:30:33.292633 : Key press report: right
+
+2024-09-28 19:30:33.397362 : Key press report: right
+
+2024-09-28 19:30:33.508708 : Key press report: right
+
+2024-09-28 19:30:33.668649 : Key press report: up
+
+2024-09-28 19:30:33.765187 : Key press report: up
+
+2024-09-28 19:30:33.973216 : Key press report: left
+
+2024-09-28 19:30:34.044615 : Key press report: left
+
+2024-09-28 19:30:34.157080 : Key press report: left
+
+2024-09-28 19:30:34.220770 : Key press report: left
+
+2024-09-28 19:30:34.308555 : Key press report: left
+
+2024-09-28 19:30:34.396963 : Key press report: left
+
+2024-09-28 19:30:34.524852 : Key press report: down
+
+2024-09-28 19:30:34.636953 : Key press report: down
+
+2024-09-28 19:30:34.724671 : Key press report: right
+
+2024-09-28 19:30:34.805191 : Key press report: right
+
+2024-09-28 19:30:34.909191 : Key press report: right
+
+2024-09-28 19:30:34.997083 : Key press report: right
+
+2024-09-28 19:30:35.077234 : Key press report: right
+
+2024-09-28 19:30:35.172666 : Key press report: right
+
+2024-09-28 19:30:36.124543 : Key press report: shift
+
+2024-09-28 19:30:36.484749 : Key press report: H
+
+2024-09-28 19:30:36.556777 : Key press report: H
+
+2024-09-28 19:30:36.564781 : Key press report: shift
+
+2024-09-28 19:30:36.636464 : Key press report: e
+
+2024-09-28 19:30:36.709149 : Key press report: l
+
+2024-09-28 19:30:36.724846 : Key press report: e
+
+2024-09-28 19:30:36.797355 : Key press report: l
+
+2024-09-28 19:30:36.884700 : Key press report: l
+
+2024-09-28 19:30:36.948657 : Key press report: l
+
+2024-09-28 19:30:37.060485 : Key press report: o
+
+2024-09-28 19:30:37.133587 : Key press report: o
+
+2024-09-28 19:30:37.261283 : Key press report: g
+
+2024-09-28 19:30:37.308976 : Key press report: space
+
+2024-09-28 19:30:37.365080 : Key press report: g
+
+2024-09-28 19:30:37.396643 : Key press report: u
+
+2024-09-28 19:30:37.469291 : Key press report: u
+
+2024-09-28 19:30:37.605472 : Key press report: y
+
+2024-09-28 19:30:37.668964 : Key press report: y
+
+2024-09-28 19:30:37.676526 : Key press report: s
+
+2024-09-28 19:30:37.773174 : Key press report: s
+
+2024-09-28 19:30:38.020866 : Key press report: backspace
+
+2024-09-28 19:30:38.084913 : Key press report: backspace
+
+2024-09-28 19:30:38.197135 : Key press report: backspace
+
+2024-09-28 19:30:38.261291 : Key press report: backspace
+
+2024-09-28 19:30:38.357168 : Key press report: backspace
+
+2024-09-28 19:30:38.429051 : Key press report: backspace
+
+2024-09-28 19:30:38.508683 : Key press report: backspace
+
+2024-09-28 19:30:38.580547 : Key press report: backspace
+
+2024-09-28 19:30:38.677189 : Key press report: backspace
+
+2024-09-28 19:30:38.741078 : Key press report: space
+
+2024-09-28 19:30:38.749079 : Key press report: backspace
+
+2024-09-28 19:30:38.892664 : Key press report: space
+
+2024-09-28 19:30:39.221341 : Key press report: backspace
+
+2024-09-28 19:30:39.300555 : Key press report: backspace
+
+2024-09-28 19:30:39.445060 : Key press report: o
+
+2024-09-28 19:30:39.564523 : Key press report: o
+
+2024-09-28 19:30:39.597247 : Key press report: space
+
+2024-09-28 19:30:39.701027 : Key press report: g
+
+2024-09-28 19:30:39.732781 : Key press report: space
+
+2024-09-28 19:30:39.797117 : Key press report: g
+
+2024-09-28 19:30:39.893324 : Key press report: u
+
+2024-09-28 19:30:40.020375 : Key press report: y
+
+2024-09-28 19:30:40.084886 : Key press report: y
+
+2024-09-28 19:30:40.164850 : Key press report: y
+
+2024-09-28 19:30:40.212686 : Key press report: y
+
+2024-09-28 19:30:40.484594 : Key press report: backspace
+
+2024-09-28 19:30:40.557150 : Key press report: backspace
+
+2024-09-28 19:30:40.644901 : Key press report: backspace
+
+2024-09-28 19:30:40.740826 : Key press report: backspace
+
+2024-09-28 19:30:40.876420 : Key press report: u
+
+2024-09-28 19:30:40.964449 : Key press report: u
+
+2024-09-28 19:30:41.100831 : Key press report: y
+
+2024-09-28 19:30:41.172551 : Key press report: y
+
+2024-09-28 19:30:41.188552 : Key press report: s
+
+2024-09-28 19:30:41.300454 : Key press report: s
+
+2024-09-28 19:30:41.316460 : Key press report: space
+
+2024-09-28 19:30:41.445193 : Key press report: space
+
+2024-09-28 19:30:42.005107 : Key press report: s
+
+2024-09-28 19:30:42.204808 : Key press report: d
+
+2024-09-28 19:30:42.706208 : Key press report: d
+
+2024-09-28 19:30:42.752395 : Key press report: d
+
+2024-09-28 19:30:42.783394 : Key press report: d
+
+2024-09-28 19:30:42.813673 : Key press report: d
+
+2024-09-28 19:30:42.844193 : Key press report: d
+
+2024-09-28 19:30:42.874673 : Key press report: d
+
+2024-09-28 19:30:42.906707 : Key press report: d
+
+2024-09-28 19:30:42.937385 : Key press report: d
+
+2024-09-28 19:30:42.983753 : Key press report: d
+
+2024-09-28 19:30:43.014773 : Key press report: d
+
+2024-09-28 19:30:43.044576 : Key press report: d
+
+2024-09-28 19:30:43.074611 : Key press report: d
+
+2024-09-28 19:30:43.105670 : Key press report: d
+
+2024-09-28 19:30:43.137126 : Key press report: d
+
+2024-09-28 19:30:43.168150 : Key press report: d
+
+2024-09-28 19:30:43.214672 : Key press report: d
+
+2024-09-28 19:30:43.244181 : Key press report: d
+
+2024-09-28 19:30:43.273906 : Key press report: d
+
+2024-09-28 19:30:43.303920 : Key press report: d
+
+2024-09-28 19:30:43.334184 : Key press report: d
+
+2024-09-28 19:30:43.379546 : Key press report: d
+
+2024-09-28 19:30:43.409943 : Key press report: d
+
+2024-09-28 19:30:43.440262 : Key press report: d
+
+2024-09-28 19:30:43.470662 : Key press report: d
+
+2024-09-28 19:30:43.501759 : Key press report: d
+
+2024-09-28 19:30:43.533056 : Key press report: d
+
+2024-09-28 19:30:43.563554 : Key press report: d
+
+2024-09-28 19:30:43.608688 : Key press report: d
+
+2024-09-28 19:30:43.628698 : Key press report: d
+
+2024-09-28 19:30:44.596593 : Key press report: s
+
+2024-09-28 19:30:44.852993 : Key press report: backspace
+
+2024-09-28 19:30:44.877125 : Key press report: backspace
+
+2024-09-28 19:30:44.972299 : Key press report: ctrl
+
+2024-09-28 19:30:45.101166 : Key press report: a
+
+2024-09-28 19:30:45.228473 : Key press report: a
+
+2024-09-28 19:30:45.260783 : Key press report: ctrl
+
+2024-09-28 19:30:45.412666 : Key press report: backspace
+
+2024-09-28 19:30:45.492452 : Key press report: backspace
+
+2024-09-28 19:30:46.068649 : Key press report: h
+
+2024-09-28 19:30:46.148633 : Key press report: h
+
+2024-09-28 19:30:46.156631 : Key press report: e
+
+2024-09-28 19:30:46.220723 : Key press report: e
+
+2024-09-28 19:30:46.260263 : Key press report: l
+
+2024-09-28 19:30:46.341118 : Key press report: l
+
+2024-09-28 19:30:46.412716 : Key press report: l
+
+2024-09-28 19:30:46.484339 : Key press report: l
+
+2024-09-28 19:30:46.612672 : Key press report: o
+
+2024-09-28 19:30:46.676832 : Key press report: space
+
+2024-09-28 19:30:46.700831 : Key press report: o
+
+2024-09-28 19:30:46.804879 : Key press report: space
+
+2024-09-28 19:30:46.868913 : Key press report: g
+
+2024-09-28 19:30:46.956551 : Key press report: g
+
+2024-09-28 19:30:46.980566 : Key press report: u
+
+2024-09-28 19:30:47.068347 : Key press report: u
+
+2024-09-28 19:30:47.188236 : Key press report: y
+
+2024-09-28 19:30:47.260701 : Key press report: y
+
+2024-09-28 19:30:47.356670 : Key press report: s
+
+2024-09-28 19:30:47.372671 : Key press report: space
+
+2024-09-28 19:30:47.484416 : Key press report: space
+
+2024-09-28 19:30:48.605245 : Key press report: ctrl
+
+2024-09-28 19:30:48.740329 : Key press report: a
+
+2024-09-28 19:30:48.852397 : Key press report: a
+
+2024-09-28 19:30:48.892396 : Key press report: ctrl
+
+2024-09-28 19:30:49.844864 : Key press report: h
+
+2024-09-28 19:30:49.932361 : Key press report: h
+
+2024-09-28 19:30:49.956889 : Key press report: e
+
+2024-09-28 19:30:50.012630 : Key press report: e
+
+2024-09-28 19:30:50.076285 : Key press report: l
+
+2024-09-28 19:30:50.205075 : Key press report: l
+
+2024-09-28 19:30:50.308547 : Key press report: l
+
+2024-09-28 19:30:50.388203 : Key press report: l
+
+2024-09-28 19:30:50.524679 : Key press report: o
+
+2024-09-28 19:30:50.645042 : Key press report: o
+
+2024-09-28 19:30:50.684504 : Key press report: space
+
+2024-09-28 19:30:50.789096 : Key press report: space
+
+2024-09-28 19:30:50.836766 : Key press report: g
+
+2024-09-28 19:30:50.916998 : Key press report: g
+
+2024-09-28 19:30:50.932845 : Key press report: u
+
+2024-09-28 19:30:51.068777 : Key press report: u
+
+2024-09-28 19:30:51.196681 : Key press report: y
+
+2024-09-28 19:30:51.276628 : Key press report: y
+
+2024-09-28 19:30:51.300628 : Key press report: s
+
+2024-09-28 19:30:51.412544 : Key press report: s
+
+2024-09-28 19:30:53.316266 : Key press report: space
+
+2024-09-28 19:30:53.420545 : Key press report: space
+
+2024-09-28 19:30:53.580765 : Key press report: t
+
+2024-09-28 19:30:53.652684 : Key press report: h
+
+2024-09-28 19:30:53.660686 : Key press report: t
+
+2024-09-28 19:30:53.788140 : Key press report: i
+
+2024-09-28 19:30:53.796140 : Key press report: h
+
+2024-09-28 19:30:53.804138 : Key press report: s
+
+2024-09-28 19:30:53.852660 : Key press report: i
+
+2024-09-28 19:30:53.916660 : Key press report: s
+
+2024-09-28 19:30:54.372665 : Key press report: space
+
+2024-09-28 19:30:54.388674 : Key press report: space
+
+2024-09-28 19:30:55.340768 : Key press report: space
+
+2024-09-28 19:30:55.420430 : Key press report: i
+
+2024-09-28 19:30:55.460866 : Key press report: space
+
+2024-09-28 19:30:55.484729 : Key press report: s
+
+2024-09-28 19:30:55.532922 : Key press report: i
+
+2024-09-28 19:30:55.580179 : Key press report: space
+
+2024-09-28 19:30:55.604178 : Key press report: s
+
+2024-09-28 19:30:55.668323 : Key press report: space
+
+2024-09-28 19:30:55.684324 : Key press report: a
+
+2024-09-28 19:30:55.764560 : Key press report: space
+
+2024-09-28 19:30:55.804559 : Key press report: a
+
+2024-09-28 19:30:55.868670 : Key press report: space
+
+2024-09-28 19:30:55.940325 : Key press report: t
+
+2024-09-28 19:30:56.020000 : Key press report: t
+
+2024-09-28 19:30:56.100836 : Key press report: r
+
+2024-09-28 19:30:56.236639 : Key press report: r
+
+2024-09-28 19:30:56.340456 : Key press report: a
+
+2024-09-28 19:30:56.356465 : Key press report: v
+
+2024-09-28 19:30:56.444972 : Key press report: v
+
+2024-09-28 19:30:56.451974 : Key press report: e
+
+2024-09-28 19:30:56.516937 : Key press report: e
+
+2024-09-28 19:30:56.572102 : Key press report: s
+
+2024-09-28 19:30:56.676137 : Key press report: s
+
+2024-09-28 19:30:56.692135 : Key press report: t
+
+2024-09-28 19:30:56.764473 : Key press report: y
+
+2024-09-28 19:30:56.780477 : Key press report: t
+
+2024-09-28 19:30:56.868670 : Key press report: y
+
+2024-09-28 19:30:56.908669 : Key press report: space
+
+2024-09-28 19:30:57.020654 : Key press report: space
+
+2024-09-28 19:30:57.972661 : Key press report: t
+
+2024-09-28 19:30:58.068815 : Key press report: h
+
+2024-09-28 19:30:58.076815 : Key press report: t
+
+2024-09-28 19:30:58.164336 : Key press report: e
+
+2024-09-28 19:30:58.180337 : Key press report: h
+
+2024-09-28 19:30:58.204336 : Key press report: space
+
+2024-09-28 19:30:58.268855 : Key press report: e
+
+2024-09-28 19:30:58.308852 : Key press report: space
+
+2024-09-28 19:30:58.404152 : Key press report: k
+
+2024-09-28 19:30:58.492178 : Key press report: k
+
+2024-09-28 19:30:58.652966 : Key press report: y
+
+2024-09-28 19:30:58.716495 : Key press report: e
+
+2024-09-28 19:30:58.724494 : Key press report: y
+
+2024-09-28 19:30:58.812545 : Key press report: e
+
+2024-09-28 19:30:58.964534 : Key press report: backspace
+
+2024-09-28 19:30:59.044559 : Key press report: backspace
+
+2024-09-28 19:30:59.156077 : Key press report: backspace
+
+2024-09-28 19:30:59.236289 : Key press report: backspace
+
+2024-09-28 19:30:59.252804 : Key press report: e
+
+2024-09-28 19:30:59.332351 : Key press report: e
+
+2024-09-28 19:30:59.364413 : Key press report: y
+
+2024-09-28 19:30:59.436417 : Key press report: y
+
+2024-09-28 19:30:59.443933 : Key press report: s
+
+2024-09-28 19:30:59.516208 : Key press report: s
+
+2024-09-28 19:30:59.540216 : Key press report: t
+
+2024-09-28 19:30:59.613050 : Key press report: t
+
+2024-09-28 19:30:59.692323 : Key press report: r
+
+2024-09-28 19:30:59.756471 : Key press report: o
+
+2024-09-28 19:30:59.804471 : Key press report: r
+
+2024-09-28 19:30:59.836476 : Key press report: k
+
+2024-09-28 19:30:59.876701 : Key press report: o
+
+2024-09-28 19:30:59.907838 : Key press report: e
+
+2024-09-28 19:30:59.972360 : Key press report: k
+
+2024-09-28 19:31:00.068469 : Key press report: s
+
+2024-09-28 19:31:00.140476 : Key press report: space
+
+2024-09-28 19:31:00.172293 : Key press report: s
+
+2024-09-28 19:31:00.212294 : Key press report: a
+
+2024-09-28 19:31:00.252826 : Key press report: space
+
+2024-09-28 19:31:00.300821 : Key press report: r
+
+2024-09-28 19:31:00.356340 : Key press report: e
+
+2024-09-28 19:31:00.364343 : Key press report: a
+
+2024-09-28 19:31:00.436347 : Key press report: r
+
+2024-09-28 19:31:00.443859 : Key press report: n
+
+2024-09-28 19:31:00.484288 : Key press report: e
+
+2024-09-28 19:31:00.556804 : Key press report: n
+
+2024-09-28 19:31:00.572802 : Key press report: t
+
+2024-09-28 19:31:00.628702 : Key press report: space
+
+2024-09-28 19:31:00.700743 : Key press report: t
+
+2024-09-28 19:31:00.732269 : Key press report: b
+
+2024-09-28 19:31:00.756324 : Key press report: space
+
+2024-09-28 19:31:00.820321 : Key press report: e
+
+2024-09-28 19:31:00.836330 : Key press report: b
+
+2024-09-28 19:31:00.932476 : Key press report: e
+
+2024-09-28 19:31:00.940471 : Key press report: i
+
+2024-09-28 19:31:01.036363 : Key press report: n
+
+2024-09-28 19:31:01.100100 : Key press report: i
+
+2024-09-28 19:31:01.132502 : Key press report: g
+
+2024-09-28 19:31:01.148018 : Key press report: n
+
+2024-09-28 19:31:01.228547 : Key press report: g
+
+2024-09-28 19:31:01.260072 : Key press report: space
+
+2024-09-28 19:31:01.364594 : Key press report: space
+
+2024-09-28 19:31:02.340424 : Key press report: r
+
+2024-09-28 19:31:02.404523 : Key press report: e
+
+2024-09-28 19:31:02.452041 : Key press report: r
+
+2024-09-28 19:31:02.500040 : Key press report: e
+
+2024-09-28 19:31:02.580560 : Key press report: c
+
+2024-09-28 19:31:02.652627 : Key press report: o
+
+2024-09-28 19:31:02.668627 : Key press report: c
+
+2024-09-28 19:31:02.740637 : Key press report: o
+
+2024-09-28 19:31:02.780380 : Key press report: g
+
+2024-09-28 19:31:02.843391 : Key press report: g
+
+2024-09-28 19:31:02.867907 : Key press report: n
+
+2024-09-28 19:31:02.964422 : Key press report: i
+
+2024-09-28 19:31:02.988425 : Key press report: n
+
+2024-09-28 19:31:02.996423 : Key press report: s
+
+2024-09-28 19:31:03.067939 : Key press report: i
+
+2024-09-28 19:31:03.075938 : Key press report: s
+
+2024-09-28 19:31:03.179979 : Key press report: e
+
+2024-09-28 19:31:03.260203 : Key press report: e
+
+2024-09-28 19:31:03.332207 : Key press report: d
+
+2024-09-28 19:31:03.428469 : Key press report: d
+
+2024-09-28 19:31:03.460507 : Key press report: space
+
+2024-09-28 19:31:03.572617 : Key press report: space
+
+2024-09-28 19:31:04.203963 : Key press report: p
+
+2024-09-28 19:31:04.276769 : Key press report: r
+
+2024-09-28 19:31:04.300770 : Key press report: p
+
+2024-09-28 19:31:04.372284 : Key press report: r
+
+2024-09-28 19:31:04.388283 : Key press report: o
+
+2024-09-28 19:31:04.420283 : Key press report: p
+
+2024-09-28 19:31:04.468337 : Key press report: e
+
+2024-09-28 19:31:04.492335 : Key press report: o
+
+2024-09-28 19:31:04.524341 : Key press report: r
+
+2024-09-28 19:31:04.532343 : Key press report: p
+
+2024-09-28 19:31:04.571856 : Key press report: e
+
+2024-09-28 19:31:04.611856 : Key press report: r
+
+2024-09-28 19:31:04.636861 : Key press report: l
+
+2024-09-28 19:31:04.716374 : Key press report: l
+
+2024-09-28 19:31:04.836506 : Key press report: y
+
+2024-09-28 19:31:04.908543 : Key press report: y
+
+2024-09-28 19:31:13.131843 : Key press report: alt
+
+2024-09-28 19:31:13.228527 : Key press report: tab
+
+2024-09-28 19:31:13.331778 : Key press report: alt
+
+2024-09-28 19:31:13.372303 : Key press report: tab
+
+2024-09-28 19:31:15.755852 : Key press report: alt
+
+2024-09-28 19:31:15.836359 : Key press report: tab
+
+2024-09-28 19:31:15.939864 : Key press report: alt
+
+2024-09-28 19:31:17.756108 : Key press report: alt
+
+2024-09-28 19:31:17.980544 : Key press report: tab
+
+2024-09-28 19:31:18.091887 : Key press report: tab
+
+2024-09-28 19:31:18.643675 : Key press report: alt
+
+2024-09-28 19:31:19.172293 : Key press report: left windows
+
+2024-09-28 19:31:19.276373 : Key press report: left windows
+
+2024-09-28 19:31:19.980090 : Key press report: alt
+
+2024-09-28 19:31:20.083760 : Key press report: tab
+
+2024-09-28 19:31:20.196448 : Key press report: tab
+
+2024-09-28 19:31:20.651676 : Key press report: tab
+
+2024-09-28 19:31:20.724343 : Key press report: tab
+
+2024-09-28 19:31:20.924023 : Key press report: tab
+
+2024-09-28 19:31:21.012360 : Key press report: tab
+
+2024-09-28 19:31:21.260266 : Key press report: alt
+
+2024-09-28 19:31:22.155675 : Key press report: alt
+
+2024-09-28 19:31:22.451800 : Key press report: tab
+
+2024-09-28 19:31:22.547547 : Key press report: tab
+
+2024-09-28 19:31:23.275659 : Key press report: tab
+
+2024-09-28 19:31:23.364404 : Key press report: tab
+
+2024-09-28 19:31:23.492479 : Key press report: tab
+
+2024-09-28 19:31:23.563937 : Key press report: tab
+
+2024-09-28 19:31:23.651681 : Key press report: tab
+
+2024-09-28 19:31:23.756261 : Key press report: tab
+
+2024-09-28 19:31:23.884214 : Key press report: alt
+
+2024-09-28 19:31:25.371898 : Key press report: alt
+
+2024-09-28 19:31:25.876680 : Key press report: alt
+
+2024-09-28 19:31:25.906775 : Key press report: alt
+
+2024-09-28 19:31:25.952389 : Key press report: alt
+
+2024-09-28 19:31:25.982917 : Key press report: alt
+
+2024-09-28 19:31:25.995424 : Key press report: tab
+
+2024-09-28 19:31:26.059365 : Key press report: tab
+
+2024-09-28 19:31:27.060095 : Key press report: tab
+
+2024-09-28 19:31:27.123801 : Key press report: tab
+
+2024-09-28 19:31:27.235343 : Key press report: tab
+
+2024-09-28 19:31:27.307549 : Key press report: tab
+
+2024-09-28 19:31:27.387664 : Key press report: tab
+
+2024-09-28 19:31:27.507545 : Key press report: tab
+
+2024-09-28 19:31:27.595967 : Key press report: tab
+
+2024-09-28 19:31:27.675847 : Key press report: tab
+
+2024-09-28 19:31:29.155512 : Key press report: alt
+
+2024-09-28 19:31:29.947933 : Key press report: left windows
+
+2024-09-28 19:31:30.052122 : Key press report: left windows
+
+2024-09-28 19:31:32.924108 : Key press report: shift
+
+2024-09-28 19:31:33.323443 : Key press report: H
+
+2024-09-28 19:31:33.395695 : Key press report: H
+
+2024-09-28 19:31:33.571719 : Key press report: M
+
+2024-09-28 19:31:33.659557 : Key press report: M
+
+2024-09-28 19:31:33.771601 : Key press report: M
+
+2024-09-28 19:31:33.844130 : Key press report: M
+
+2024-09-28 19:31:34.131572 : Key press report: shift
+
+2024-09-28 19:31:34.571589 : Key press report: backspace
+
+2024-09-28 19:31:34.619271 : Key press report: backspace
+
+2024-09-28 19:31:34.724176 : Key press report: backspace
+
+2024-09-28 19:31:34.795697 : Key press report: backspace
+
+2024-09-28 19:31:34.883872 : Key press report: backspace
+
+2024-09-28 19:31:34.948132 : Key press report: backspace
+
+2024-09-28 19:31:35.011641 : Key press report: backspace
+
+2024-09-28 19:31:35.099495 : Key press report: backspace
+
+2024-09-28 19:31:35.139776 : Key press report: t
+
+2024-09-28 19:31:35.219611 : Key press report: t
+
+2024-09-28 19:31:35.316136 : Key press report: h
+
+2024-09-28 19:31:35.403343 : Key press report: h
+
+2024-09-28 19:31:35.491437 : Key press report: i
+
+2024-09-28 19:31:35.579571 : Key press report: i
+
+2024-09-28 19:31:35.595570 : Key press report: s
+
+2024-09-28 19:31:35.716254 : Key press report: s
+
+2024-09-28 19:31:35.739551 : Key press report: space
+
+2024-09-28 19:31:35.859851 : Key press report: space
+
+2024-09-28 19:31:35.940238 : Key press report: i
+
+2024-09-28 19:31:35.995679 : Key press report: i
+
+2024-09-28 19:31:36.266785 : Key press report: backspace
+
+2024-09-28 19:31:36.363816 : Key press report: s
+
+2024-09-28 19:31:36.371327 : Key press report: backspace
+
+2024-09-28 19:31:36.466690 : Key press report: s
+
+2024-09-28 19:31:36.587669 : Key press report: e
+
+2024-09-28 19:31:36.651932 : Key press report: e
+
+2024-09-28 19:31:36.740070 : Key press report: e
+
+2024-09-28 19:31:36.820006 : Key press report: m
+
+2024-09-28 19:31:36.859840 : Key press report: e
+
+2024-09-28 19:31:36.923409 : Key press report: m
+
+2024-09-28 19:31:36.995725 : Key press report: s
+
+2024-09-28 19:31:37.100065 : Key press report: s
+
+2024-09-28 19:31:37.139670 : Key press report: space
+
+2024-09-28 19:31:37.259549 : Key press report: space
+
+2024-09-28 19:31:37.267549 : Key press report: t
+
+2024-09-28 19:31:37.363674 : Key press report: t
+
+2024-09-28 19:31:37.499248 : Key press report: space
+
+2024-09-28 19:31:37.515277 : Key press report: o
+
+2024-09-28 19:31:37.611362 : Key press report: space
+
+2024-09-28 19:31:37.716215 : Key press report: b
+
+2024-09-28 19:31:37.803671 : Key press report: e
+
+2024-09-28 19:31:37.811670 : Key press report: b
+
+2024-09-28 19:31:37.899609 : Key press report: e
+
+2024-09-28 19:31:38.195671 : Key press report: backspace
+
+2024-09-28 19:31:38.259544 : Key press report: backspace
+
+2024-09-28 19:31:38.363502 : Key press report: backspace
+
+2024-09-28 19:31:38.427667 : Key press report: backspace
+
+2024-09-28 19:31:38.507709 : Key press report: backspace
+
+2024-09-28 19:31:38.619545 : Key press report: backspace
+
+2024-09-28 19:31:38.827363 : Key press report: backspace
+
+2024-09-28 19:31:38.907361 : Key press report: backspace
+
+2024-09-28 19:31:39.011619 : Key press report: t
+
+2024-09-28 19:31:39.115607 : Key press report: t
+
+2024-09-28 19:31:39.123618 : Key press report: o
+
+2024-09-28 19:31:39.267545 : Key press report: o
+
+2024-09-28 19:31:39.364064 : Key press report: space
+
+2024-09-28 19:31:39.484025 : Key press report: space
+
+2024-09-28 19:31:39.563196 : Key press report: b
+
+2024-09-28 19:31:39.659387 : Key press report: e
+
+2024-09-28 19:31:39.667388 : Key press report: b
+
+2024-09-28 19:31:39.731065 : Key press report: space
+
+2024-09-28 19:31:39.748067 : Key press report: e
+
+2024-09-28 19:31:39.851464 : Key press report: space
+
+2024-09-28 19:31:39.899428 : Key press report: w
+
+2024-09-28 19:31:39.987890 : Key press report: w
+
+2024-09-28 19:31:40.091129 : Key press report: o
+
+2024-09-28 19:31:40.187087 : Key press report: o
+
+2024-09-28 19:31:40.227117 : Key press report: r
+
+2024-09-28 19:31:40.315670 : Key press report: r
+
+2024-09-28 19:31:40.323669 : Key press report: k
+
+2024-09-28 19:31:40.443545 : Key press report: k
+
+2024-09-28 19:31:40.587471 : Key press report: i
+
+2024-09-28 19:31:40.595474 : Key press report: u
+
+2024-09-28 19:31:40.635559 : Key press report: u
+
+2024-09-28 19:31:40.643562 : Key press report: n
+
+2024-09-28 19:31:40.683795 : Key press report: i
+
+2024-09-28 19:31:40.779557 : Key press report: g
+
+2024-09-28 19:31:40.787557 : Key press report: n
+
+2024-09-28 19:31:40.867985 : Key press report: g
+
+2024-09-28 19:31:40.923666 : Key press report: space
+
+2024-09-28 19:31:41.019575 : Key press report: space
+
+2024-09-28 19:31:41.099680 : Key press report: f
+
+2024-09-28 19:31:41.203142 : Key press report: f
+
+2024-09-28 19:31:41.219560 : Key press report: i
+
+2024-09-28 19:31:41.299297 : Key press report: n
+
+2024-09-28 19:31:41.331250 : Key press report: i
+
+2024-09-28 19:31:41.355262 : Key press report: e
+
+2024-09-28 19:31:41.419819 : Key press report: n
+
+2024-09-28 19:31:41.435670 : Key press report: e
+
+2024-09-28 19:31:41.475217 : Key press report: space
+
+2024-09-28 19:31:41.579806 : Key press report: space
+
+2024-09-28 19:31:41.955175 : Key press report: ctrl
+
+2024-09-28 19:31:42.091826 : Key press report: a
+
+2024-09-28 19:31:42.179674 : Key press report: a
+
+2024-09-28 19:31:42.203193 : Key press report: ctrl
+
+2024-09-28 19:31:42.267706 : Key press report: backspace
+
+2024-09-28 19:31:42.355678 : Key press report: backspace
+
+2024-09-28 19:31:46.171225 : Key press report: alt
+
+2024-09-28 19:31:46.243911 : Key press report: tab
+
+2024-09-28 19:31:46.379922 : Key press report: tab
+
+2024-09-28 19:31:46.667698 : Key press report: alt
+
+2024-09-28 19:32:04.210716 : Key press report: r
+
+2024-09-28 19:32:04.274675 : Key press report: e
+
+2024-09-28 19:32:04.363677 : Key press report: r
+
+2024-09-28 19:32:04.411074 : Key press report: a
+
+2024-09-28 19:32:04.451071 : Key press report: e
+
+2024-09-28 19:32:04.539081 : Key press report: a
+
+2024-09-28 19:32:06.395268 : Key press report: page up
+
+2024-09-28 19:32:06.490905 : Key press report: page up
+
