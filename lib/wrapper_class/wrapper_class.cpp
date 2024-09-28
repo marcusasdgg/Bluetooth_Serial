@@ -599,7 +599,7 @@ void HID_wrapper::press_state(){
         if (key_state[i] == true && i != 111 && i != 112 && i != 113 && i != 114){
             if (i == 107 || i == 108|| i == 109 || i == 110 || i == 104 || i == 105 || i == 106){
                 esp_hidd_send_consumer_value(0, key_state_map[i], true);
-                vTaskDelay(300 / portTICK_PERIOD_MS);
+                vTaskDelay(150 / portTICK_PERIOD_MS);
                 esp_hidd_send_consumer_value(0, key_state_map[i], false);
                 return;
             }
@@ -607,12 +607,12 @@ void HID_wrapper::press_state(){
             keys_found++;
         }
     }
-    string report = "HID report: ";
-    for (int i = 0 ; i < 6 ; i++){
-        report += " " + to_string(keys[i]);
-    }
+    // string report = "HID report: ";
+    // for (int i = 0 ; i < 6 ; i++){
+    //     report += " " + to_string(keys[i]);
+    // }
 
-    this->write_log(report);
+    // this->write_log(report);
     esp_hidd_send_keyboard_value(0, modifiers, keys, keys_found);
 
 }
